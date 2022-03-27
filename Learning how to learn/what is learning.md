@@ -1,0 +1,20 @@
+- our brain
+- consumes ten times more energy by weight than the rest of the body
+- most complex device in the know universe
+- toughts, hopes and fears are in the neurons in your brain
+- we prize math and chess skills but digital computers is way better than we are
+- what we do so well and take for granted is much more complex than we tought  and way beyound the worlds fastest digital computers
+- we are not countiously aware of how our brains work
+- all the heavy lifting is done below our level of counsciousnes
+- unconscious mind include thought, processes, memory, emotions and motivation
+- we are only aware of some of the information of the brain
+- we need to rely in brain images to guide us
+- the blue areas are active when the user interact with the world and turn off in resting state
+- the red-orange is the most active area when resting and are the default mode network
+- these brain areas can be divided into group of areas that have common patterns of activity
+- the sinapses size can be adjusted by learning, but the pattern of activity dont change to much
+- but now we know that brain activity is dinamic and change even after matures
+- how when we lose sinapses the memory continue stable after so many years
+- you are not the same person you are after you sleep or after study
+- Willian Shakespear already know it
+[brainfacts](https://www.brainfacts.org/)
