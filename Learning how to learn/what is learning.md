@@ -4,7 +4,7 @@
 - toughts, hopes and fears are in the neurons in your brain
 - we prize math and chess skills but digital computers is way better than we are
 - what we do so well and take for granted is much more complex than we tought  and way beyound the worlds fastest digital computers
-- we are not countiously aware of how our brains work
+- we are not continuously aware of how our brains work
 - all the heavy lifting is done below our level of counsciousnes
 - unconscious mind include thought, processes, memory, emotions and motivation
 - we are only aware of some of the information of the brain

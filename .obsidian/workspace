@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Learning how to learn/Dr. Terrence Sejnowisky.md",
+            "file": "Learning how to learn/what is learning.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning how to learn/Dr. Terrence Sejnowisky.md",
+                "file": "Learning how to learn/what is learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "f9d8b2eef3a41e07",
   "lastOpenFiles": [
+    "Learning how to learn/what is learning.md",
+    "Learning how to learn/practice makes permanent.md",
+    "Learning how to learn/focused vs difuse.md",
     "Learning how to learn/Dr. Terrence Sejnowisky.md",
     "Learning how to learn/the importance of sleep in learning.md",
-    "Learning how to learn/what is learning.md",
     "Learning how to learn/using the focused and difused mode.md",
     "Learning how to learn/procastination preview.md",
-    "Learning how to learn/practice makes permanent.md",
-    "Learning how to learn/introduction to memory.md",
-    "Learning how to learn/focused vs difuse.md"
+    "Learning how to learn/introduction to memory.md"
   ]
 }
