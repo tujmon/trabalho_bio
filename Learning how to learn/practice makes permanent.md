@@ -1,4 +1,0 @@
-- when you practice you strenght the neurons and make more easy to make more connections
-- your connections become more strong and more difficult to disapear
-- a little every day is better than all at once.
-- like when you study for a test in the day before and forgot everything
